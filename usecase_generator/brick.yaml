@@ -1,0 +1,17 @@
+name: usecase_generator
+description: A brick to create a usecase with it's basic structure
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.60 <0.1.0"
+
+vars:
+  usecase:
+    type: string
+    description: The name of your usecase
+    prompt: What is the usecase name?
+  repository:
+    type: string
+    description: The repository used by the usecase if any
+    prompt: What repository this usecase uses?

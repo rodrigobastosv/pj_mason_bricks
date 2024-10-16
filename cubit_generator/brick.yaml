@@ -1,0 +1,13 @@
+name: cubit_generator
+description: A brick to create a cubit with it's basic structure
+
+version: 1.0.0
+
+environment:
+  mason: ">=0.1.0-dev.60 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: The name of your cubit
+    prompt: What is the cubit name?

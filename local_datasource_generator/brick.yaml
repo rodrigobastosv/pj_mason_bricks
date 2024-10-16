@@ -1,0 +1,13 @@
+name: local_datasource_generator
+description: A brick to create a local datasource with it's basic structure
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.60 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: The name of your local datasource
+    prompt: What is the datasource name?

@@ -1,0 +1,17 @@
+name: repository_generator
+description: A brick to create a repository with it's basic structure
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.60 <0.1.0"
+
+vars:
+  repository:
+    type: string
+    description: The name of your repository
+    prompt: What is the repository name?
+  datasource:
+    type: string
+    description: The datasource used by the repository if any
+    prompt: What datasource this usecase uses?
