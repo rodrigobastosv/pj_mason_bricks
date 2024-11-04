@@ -1,4 +1,4 @@
-name: local_datasource_generator
+name: local_datasource
 description: A brick to create a local datasource with it's basic structure
 
 version: 0.1.0+1

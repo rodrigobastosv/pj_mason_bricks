@@ -1,13 +1,13 @@
 bricks:
-  cubit_generator:
-    path: cubit_generator
-  usecase_generator:
-    path: usecase_generator
-  repository_generator:
-    path: repository_generator
-  local_datasource_generator:
-    path: local_datasource_generator
-  remote_datasource_generator:
-    path: remote_datasource_generator
-  page_generator:
-    path: page_generator
+  cubit:
+    path: cubit
+  usecase:
+    path: usecase
+  repository:
+    path: repository
+  local_datasource:
+    path: local_datasource
+  remote_datasource:
+    path: remote_datasource
+  page:
+    path: page

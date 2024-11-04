@@ -1,4 +1,4 @@
-name: page_generator
+name: page
 description: A brick to create a page with it's basic structure
 
 version: 0.1.0+1

@@ -1,4 +1,4 @@
-name: remote_datasource_generator
+name: remote_datasource
 description: A brick to create a remote datasource with it's basic structure
 
 version: 0.1.0+1

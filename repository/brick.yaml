@@ -1,4 +1,4 @@
-name: repository_generator
+name: repository
 description: A brick to create a repository with it's basic structure
 
 version: 0.1.0+1
